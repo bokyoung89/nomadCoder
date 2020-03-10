@@ -14,7 +14,11 @@ h1{
     cursor : pointer;
 }
 
-.form, .grettings{
+body{
+    color : #34495e;
+}
+
+.form, .greetings{
     display: none;
 }
 
